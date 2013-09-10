@@ -1,7 +1,3 @@
-@font-face {
-	font-family: "Airplane";
-	src: url ('Airplane.ttf') format('truetype');
-}
 html, body {
 	height: 100%;
 	width: 100%;
@@ -22,13 +18,13 @@ a:hover {
 	opacity: 0.4; 
 	}
 .overlay {
-	width : 251px;
+	width : 288px;
 	position: absolute;
 	left: 50%;
 	top: 50%;
 	background-color: #FFF;
 	height: 45px;
-	margin-left : -135px;
+	margin-left : -154px;
 	z-index: 10;
 	font-size: 24px;
 	text-align: center;
